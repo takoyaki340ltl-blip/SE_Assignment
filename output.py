@@ -8,7 +8,7 @@ from datetime import datetime
 
 DATA_FILE = os.path.join("data", "expenses.csv")
 
-#讀取 CSV 檔案並回傳完整資料列表與類別統計
+#讀取CSV檔案並回傳完整資料列表與類別統計
 def load_data():
     if not os.path.exists(DATA_FILE):
         print(f"錯誤: 找不到 {DATA_FILE}。請先執行 input.py。")
