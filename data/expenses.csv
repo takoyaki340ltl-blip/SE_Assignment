@@ -1,2 +1,7 @@
 date,amount,category,note
-2025-12-14,120.00,lunch,bubbletea
+2025-12-13,120.00,breakfast,sandwich
+2025-12-13,200.00,lunch,
+2025-12-13,80.00,dinner,
+2025-12-14,100.00,breakfast,
+2025-12-14,340.00,lunch,
+2025-12-14,500.00,dinner,
