@@ -37,4 +37,4 @@ python output.py
 * **清單呈現**：終端機會印出完整的消費紀錄清單。
 
 ## 輸出範例圖
-![輸出範例圖](./screenshot.png)
+![輸出範例圖](./demo-1.png)
